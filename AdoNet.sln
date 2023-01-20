@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.netCommandSql", "Ado.ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.netExecuteScaler", "Ado.netExecuteScaler\Ado.netExecuteScaler.csproj", "{F8CE2110-81A6-4144-A292-ACE9DF71CC4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.netExecuteReader", "Ado.netExecuteReader\Ado.netExecuteReader.csproj", "{4058AB39-D32F-44CD-BFED-46D7DBA30C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F8CE2110-81A6-4144-A292-ACE9DF71CC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CE2110-81A6-4144-A292-ACE9DF71CC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CE2110-81A6-4144-A292-ACE9DF71CC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4058AB39-D32F-44CD-BFED-46D7DBA30C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4058AB39-D32F-44CD-BFED-46D7DBA30C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4058AB39-D32F-44CD-BFED-46D7DBA30C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4058AB39-D32F-44CD-BFED-46D7DBA30C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
